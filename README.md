@@ -1,0 +1,2 @@
+# Optimizing-Mutual-Fund-Equity-Holdings-A-Monte-Carlo-Simulation-and-Efficient-Frontier-Analysis
+Developed an independent equity portfolio optimization project using Monte Carlo Simulation and Efficient Frontier analysis. The study evaluates whether the disclosed top equity holdings of an Indonesian mutual fund could achieve improved historical risk-adjusted returns through alternative portfolio weighting.
